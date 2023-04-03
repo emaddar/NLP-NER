@@ -25,7 +25,7 @@ def process_ner_results(ner_results):
     count_df = count_df.rename(columns={'score': 'count'})
 
     return df, count_df
-
+ 
 
 
 
