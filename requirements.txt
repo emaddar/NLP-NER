@@ -1,0 +1,9 @@
+streamlit
+spacy
+pandas
+seaborn
+matplotlib
+langdetect
+transformers
+torch
+inltk
